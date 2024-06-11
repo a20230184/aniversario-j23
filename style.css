@@ -1,0 +1,37 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color:#040255
+}
+p {
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+  font-size: 70px;
+  font-weight: bold;
+  text-align: center;
+}
+.encabezado img{
+  height: 150px;
+  margin:50px;
+}
+div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pastel img{
+  margin: 30px;
+  height: 350px;
+}
+.mensaje p{
+font-family: ,comic sans ms;
+color: #e1ff00;
+}
+div{
+display: flex;
+justify-content: center;
+align-items: center;
+}
